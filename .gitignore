@@ -5,6 +5,8 @@
 /*.png
 /*.jpeg
 
+/resources/
+/resources/png/
 /resources/exe/
 /resources/mp4/
 /resources/pdf/
