@@ -1,3 +1,4 @@
+
 # study-github
 
 ## 주요 링크
@@ -73,3 +74,18 @@
 -[glob (programming)](https://en.wikipedia.org/wiki/Glob_(programming))
 -[[YouTube] Git을 사용하나는데, 설마 gitignore 기능을 모른다고? {no.20}](https://www.youtube.com/watch?v=1xo2QsNuofM) ✅
 -[[YouTube] Git - .gitignore : 파일무시방법](https://www.youtube.com/watch?v=XPGiVhdlS8Y) ✅
+
+# PORTFOLIO
+
+## Skills
+### Strong
+JAVA, JAVASCRIPT, Spring, Spring Boot
+
+### Knowledgeable
+Oracle Database, Node.js, Electron js, React Native
+
+### etc
+
+## Projects
+
+- [합격하는 개발자 포트폴리오 양식 공유](https://www.youtube.com/watch?v=kgJeBupiSJA&list=PLTC3gIv9IzFI9tlMYRMHRL92ZU6EIBpVg)
